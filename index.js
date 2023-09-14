@@ -32,6 +32,17 @@ async function run() {
       res.send(result);
     });
 
+    // ------------------------------
+    //      recipesCollection
+    // ------------------------------
+    const recipesCollection = client.db("foodCravingsDB").collection("recipes");
+
+    //get all recipes
+    app.get("/recipes", async (req, res) => {
+      const result = await recipesCollection.find().toArray();
+      res.send(result);
+    });
+
     await client.db("admin").command({ ping: 1 });
     console.log("Pinged successfully connected to MongoDB!");
   } catch {

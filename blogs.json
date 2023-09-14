@@ -1,0 +1,92 @@
+[
+  {
+    "_id": 1,
+    "title": "Delicious Spaghetti Carbonara",
+    "image": "https://i.ibb.co/Z8ZTwG6/8.png",
+    "author": "John Doe",
+    "date": "2023-09-13",
+    "author_image": "https://i.ibb.co/dkK4mt7/review-2.png",
+    "details": "Check out this delicious Spaghetti Carbonara recipe! It's a classic Italian dish that's quick and easy to make. Perfect for a satisfying snack. 🍝\n\nIngredients:\n- Spaghetti\n- Panacea\n- Eggs\n- Parmesan cheese\n- Black pepper\n\nInstructions:\n1. Cook the spaghetti according to the package instructions until al dente.\n2. While the pasta is cooking, fry the panacea in a pan until crispy.\n3. In a bowl, whisk together the eggs, Parmesan cheese, and black pepper.\n4. Drain the pasta and reserve a cup of the cooking water.\n5. Add the pasta to the pan with the panacea and toss to combine.\n6. Remove the pan from the heat and add the egg mixture, tossing quickly to avoid scrambling the eggs.\n7. Add a splash of the reserved pasta water to the pan to create a creamy sauce.\n8. Serve immediately with extra Parmesan cheese and black pepper on top."
+  },
+  {
+    "_id": 2,
+    "title": "Fettuccine Alfredo Breakfast",
+    "image": "https://i.ibb.co/Q9pBM3W/7.png",
+    "author": "Jane Smith",
+    "date": "2023-09-14",
+    "author_image": "https://i.ibb.co/jhz7gNM/review-3.png",
+    "details": "Start your day with a delightful Fettuccine Alfredo breakfast! Creamy and cheesy, it's a comforting treat you'll love. 🍳\n\nIngredients:\n- Fettuccine\n- Heavy cream\n- Butter\n- Parmesan cheese\n- Garlic\n\nInstructions:\n1. Cook the fettuccine according to the package instructions until al dente.\n2. While the pasta is cooking, melt the butter in a pan and sauté the garlic until fragrant.\n3. Add the heavy cream to the pan and bring to a simmer.\n4. Reduce the heat and add the Parmesan cheese, stirring constantly until melted.\n5. Drain the pasta and add it to the pan with the sauce.\n6. Toss to combine and coat the pasta with the sauce.\n7. Serve immediately with extra Parmesan cheese on top."
+  },
+  {
+    "_id": 3,
+    "title": "Caprese Salad",
+    "image": "https://i.ibb.co/vjtyWRB/4.png",
+    "author": "Emily Davis",
+    "date": "2023-09-15",
+    "author_image": "https://i.ibb.co/RvKc9Hh/review-1.png",
+    "details": "Enjoy the freshness of summer with this Caprese Salad recipe! It's a simple yet elegant salad that combines ripe tomatoes, fresh mozzarella, and basil. 🍅🧀\n\nIngredients:\n- Tomatoes\n- Fresh mozzarella cheese\n- Basil leaves\n- Extra-virgin olive oil\n- Balsamic vinegar\n\nInstructions:\n1. Slice the tomatoes and fresh mozzarella cheese into 1/4-inch thick rounds.\n2. Arrange the tomato and mozzarella slices on a platter, alternating them.\n3. Sprinkle fresh basil leaves over the top of the salad.\n4. Drizzle extra-virgin olive oil and balsamic vinegar over the salad.\n5. Season with salt and pepper to taste.\n6. Serve immediately."
+  },
+  {
+    "_id": 20,
+    "title": "Pesto Pasta with Sun-Dried Tomatoes",
+    "image": "https://i.ibb.co/yFZ4Lv1/6.png",
+    "author": "Michael Johnson",
+    "date": "2023-09-16",
+    "author_image": "https://i.ibb.co/Fbrq1xB/review-4.png",
+    "details": "Indulge in the flavors of Italy with this Pesto Pasta with Sun-Dried Tomatoes recipe! It's a vibrant and tasty dish that's sure to please. 🍝\n\nIngredients:\n- Fusilli pasta\n- Fresh basil leaves\n- Garlic cloves\n- Pine nuts\n- Olive oil\n- Grated Parmesan cheese\n- Sun-dried tomatoes\n- Salt and pepper\n\nInstructions:\n1. Cook pasta according to package instructions. Drain and set aside.\n2. In a food processor, blend basil, garlic, pine nuts, and olive oil until smooth.\n3. Add Parmesan cheese and blend again until smooth. Salt and pepper to taste.\n4. In a large skillet, sauté sun-dried tomatoes until heated through.\n5. Add pasta and pesto sauce to skillet and toss to coat.\n6. Serve hot with additional Parmesan cheese, if desired."
+  },
+  {
+    "_id": 21,
+    "title": "Braised Beef Short Ribs",
+    "image": "https://i.ibb.co/xjGCJFm/5.png",
+    "author": "Sophia Williams",
+    "date": "2023-09-17",
+    "author_image": "https://i.ibb.co/ncgHsRr/instructor-9.png",
+    "details": "Savor the rich flavors of Braised Beef Short Ribs with this recipe! It's a hearty and comforting meat dish that's perfect for special occasions. 🥩🍷\n\nIngredients:\n- Beef short ribs\n- Salt and pepper\n- Olive oil\n- Onion\n- Carrots\n- Celery stalks\n- Garlic\n- Beef broth\n- Red wine\n- Fresh thyme\n- Fresh rosemary\n\nInstructions:\n1. Preheat oven to 350°F.\n2. Season beef short ribs with salt and pepper.\n3. In a large Dutch oven, heat olive oil over medium-high heat. Sear short ribs on all sides until browned, about 10 minutes.\n4. Remove short ribs and set aside. In the same pot, sauté onion, carrots, celery, and garlic until vegetables are tender.\n5. Add beef broth, red wine, thyme, and rosemary. Bring to a boil.\n6. Return short ribs to the pot and cover with a lid. Bake in the preheated oven for 2 1/2 to 3 hours, or until meat is tender and falls off the bone.\n7. Serve hot with your favorite side dish."
+  },
+  {
+    "_id": 22,
+    "title": "Luscious Tiramisu Dessert",
+    "image": "https://i.ibb.co/4gJ5sPN/10.png",
+    "author": "David Anderson",
+    "date": "2023-09-18",
+    "author_image": "https://i.ibb.co/T2GjsLt/instructor-8.png",
+    "details": "Treat yourself to the classic Italian dessert with this Tiramisu recipe! It's a luscious and coffee-flavored dessert that's perfect for a sweet indulgence. ☕🍰\n\nIngredients:\n- Egg yolks\n- Sugar\n- Milk\n- Heavy cream\n- Vanilla extract\n- Mascarpone cheese\n- Strong brewed espresso\n- Coffee liqueur\n- Ladyfingers\n- Cocoa powder\n\nInstructions:\n1. In a double boiler, whisk egg yolks and sugar until pale yellow.\n2. Add milk and whisk until smooth. Cook over medium heat, stirring constantly, until mixture thickens and coats the back of a spoon.\n3. Remove from heat and let cool to room temperature.\n4. In a large bowl, beat heavy cream and vanilla until stiff peaks form.\n5. In a separate bowl, whisk mascarpone cheese until smooth. Add cooled egg mixture and mix until well combined.\n6. Dip ladyfingers in espresso mixture and place them in a single layer in a 9x13 inch dish.\n7. Spread half of the mascarpone mixture on top of the ladyfingers. Repeat with another layer of ladyfingers and mascarpone mixture.\n8. Sift cocoa powder over the top layer.\n9. Refrigerate for at least 2 hours, or overnight.\n10. Serve chilled and enjoy!"
+  },
+  {
+    "_id": 30,
+    "title": "Healthy Cauliflower Pizza Crust",
+    "image": "https://i.ibb.co/bJCBKB7/19.png",
+    "author": "Olivia Smith",
+    "date": "2023-09-19",
+    "author_image": "https://i.ibb.co/qnQG5LH/instructor-7.png",
+    "details": "Craving a snack? Try this Cauliflower Pizza Crust recipe! It's a healthier alternative to traditional pizza crust, and it's delicious. 🍕🥦\n\nIngredients:\n- Cauliflower\n- Egg\n- Shredded mozzarella cheese\n- Dried oregano\n- Garlic powder\n- Salt and pepper\n\nInstructions:\n1. Preheat oven to 425°F.\n2. In a food processor, pulse cauliflower until it resembles rice.\n3. Microwave cauliflower for 8 minutes, then let cool.\n4. In a large bowl, combine cauliflower, egg, mozzarella cheese, oregano, garlic powder, salt, and pepper.\n5. Mix well and form into a 12-inch round on a baking sheet lined with parchment paper.\n6. Bake in the preheated oven for 15 to 20 minutes, or until crust is golden brown.\n7. Add your favorite pizza toppings and return to the oven for 5 to 10 minutes, or until cheese is melted and bubbly."
+  },
+  {
+    "_id": 31,
+    "title": "Grilled Ribeye Steak",
+    "image": "https://i.ibb.co/HGzZvrz/1.png",
+    "author": "Daniel Wilson",
+    "date": "2023-09-20",
+    "author_image": "https://i.ibb.co/vXkX1hK/instructor-5.png",
+    "details": "Fire up the grill for a mouthwatering Grilled Ribeye Steak! This recipe will show you how to achieve the perfect sear and flavor. 🥩🔥\n\nIngredients:\n- Ribeye steak\n- Salt and pepper\n- Olive oil\n- Chopped fresh rosemary\n- Chopped fresh thyme\n- Garlic\n\nInstructions:\n1. Preheat grill to high heat.\n2. Season ribeye steak with salt and pepper.\n3. In a small bowl, mix olive oil, rosemary, thyme, and garlic.\n4. Brush mixture onto both sides of the steak.\n5. Place steak on the grill and cook for 3 to 4 minutes on each side, or until desired doneness is reached.\n6. Let steak rest for 5 minutes before slicing and serving."
+  },
+  {
+    "_id": 32,
+    "title": "Crispy Zucchini Fritters",
+    "image": "https://i.ibb.co/Rp1qjjt/17.png",
+    "author": "Sophie Miller",
+    "date": "2023-09-21",
+    "author_image": "https://i.ibb.co/1b2KzqH/instructor-6.png",
+    "details": "Looking for a healthy and delicious snack? Try these Zucchini Fritters! They are crispy on the outside and tender on the inside. 🥒🍴\n\nIngredients:\n- Zucchinis\n- Flour\n- Grated Parmesan cheese\n- Baking powder\n- Salt\n- Black pepper\n- Egg\n- Olive oil\n\nInstructions:\n1. In a large bowl, mix grated zucchini, flour, Parmesan cheese, baking powder, salt, and black pepper.\n2. Add beaten egg and mix until well combined.\n3. Heat olive oil in a large skillet over medium heat.\n4. Drop tablespoonfuls of zucchini mixture into the skillet and cook until golden brown, about 2 to 3 minutes per side.\n5. Remove fritters from skillet and place on a paper towel-lined plate to drain excess oil.\n6. Serve hot with your favorite dipping sauce."
+  },
+  {
+    "_id": 33,
+    "title": "Perfectly Grilled Ribeye Steak",
+    "image": "https://i.ibb.co/2qs0sZh/2.png",
+    "author": "Liam Harris",
+    "date": "2023-09-22",
+    "author_image": "https://i.ibb.co/M2yV05y/instructor-4.png",
+    "details": "Impress your guests with a perfectly grilled Ribeye Steak! This recipe is all about flavor and simplicity. 🥩🔥\n\nIngredients:\n- Ribeye steak\n- Cloves of garlic\n- Sprigs of thyme\n- Olive oil\n- Salt and pepper\n\nInstructions:\n1. Preheat grill to high heat.\n2. Season ribeye steak with salt and pepper.\n3. In a small bowl, mix garlic, thyme, and olive oil together. Rub mixture on both sides of the steak.\n4. Grill steak for 4-5 minutes on each side for medium-rare.\n5. Let steak rest for 5 minutes before slicing.\n6. Serve with your favorite side dish."
+  }
+]
