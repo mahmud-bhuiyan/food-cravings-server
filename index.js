@@ -35,7 +35,6 @@ async function run() {
     //get single chef data
     app.get("/chefs/:id", async (req, res) => {
       const id = req.params.id;
-      console.log("Received ID:", id);
       const query = { _id: new ObjectId(id) };
       const result = await chefsCollection.find(query).toArray();
       res.send(result);
@@ -49,6 +48,14 @@ async function run() {
     //get all recipes
     app.get("/recipes", async (req, res) => {
       const result = await recipesCollection.find().toArray();
+      res.send(result);
+    });
+
+    //get single chef data
+    app.get("/recipe/:id", async (req, res) => {
+      const id = req.params.id;
+      const query = { _id: new ObjectId(id) };
+      const result = await recipesCollection.find(query).toArray();
       res.send(result);
     });
 
